@@ -48,9 +48,9 @@ params:
   course:
     number: BUEC 311
     semester: Fall 2021
-    twitter: ryansafner
+    twitter: andrew_leach
     dates: "September 1–Dec 8, 2021"
-    github: "ryansafner/buec_311_f21"
+    github: "leachandrew/buec_311_f21"
     copyrightYear: "2021-2022"
     contactDetails: >-
       Office hours: See syllabus
