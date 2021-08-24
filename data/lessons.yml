@@ -4,8 +4,13 @@ lessons:
 
   - title: "1.1 The Tools of Microeconomics"
     class: "1.2-class"
+    slides: "consumer_prefs.pdf"
+
+  - title: "1.1  Tools of Microeconomics"
+    class: "1.2-class"
     slides: "1.2-slides"
 
+  
   - title: "1.2 Scarcity, Choice, and Cost"
     class: "1.2-class"
     slides: "1.2-slides"

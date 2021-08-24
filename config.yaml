@@ -1,43 +1,78 @@
-baseurl: /
-languageCode: en-us
-title: A Hugo website
-theme: hugo-lithium
-googleAnalytics: ''
-disqusShortname: ''
+baseurl: "buec311.aleach.ca"
+languageCode: "en-us"
+title: "Business Economics, Organizations and Management"
+theme: "rvs-tufte-hugo"
+googleAnalytics: ""
 ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
+  - \.yaml$
+  - _files$
   - _cache$
-  - \.knit\.md$
-  - \.utf8\.md$
+  - \.csl$
 permalinks:
-  post: /:year/:month/:day/:slug/
+  post: "/:year/:month/:day/:slug/"
+buildFuture: true
 menu:
   main:
-    - name: About
-      url: /about/
-    - name: GitHub
-      url: https://github.com/rstudio/blogdown
-    - name: Twitter
-      url: https://twitter.com/rstudio
+    - name: Syllabus
+      url: "syllabus-311.pdf"
+      weight: 1
+    - name: Assignments
+      url: /assignments/
+      weight: 3
+    - name: Schedule
+      url: /schedule/
+      weight: 2
+    - name: Resources
+      url: /resources/
+      weight: 5
+    - name: eClass
+      url: "https://eclass.srv.ualberta.ca/portal/"
+      weight: 7
+# Disable taxonomies
+taxonomies:
+  tag: ""
+  group: ""
+  category: ""
 params:
-  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
-  MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
-  favicon: favicon.ico
-  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
-  highlightjsLang:
-    - r
-    - yaml
-  highlightjsTheme: github
-  highlightjsVersion: 9.12.0
+  author: Andrew Leach
+  thumbnail: /images/gas_demand.png
+  instructor: 
+    name: Andrew Leach
+    email: aleach@ualberta.ca
+    url: "https://www.aleach.ca"
+    twitter: andrew_leach
+    github: leachandrew
+    office: 3-20D Business
+  course:
+    number: BUEC 311
+    semester: Fall 2021
+    twitter: ryansafner
+    dates: "September 1–Dec 8, 2021"
+    github: "ryansafner/buec_311_f21"
+    copyrightYear: "2021-2022"
+    contactDetails: >-
+      Office hours: See syllabus
+  university: 
+    name: University of Alberta
+    url: "https://www.ualberta.ca"
+  school:
+    name: Alberta School of Business
+    url: "https://www.ualberta.ca/business/index.html"
+  description: "Business Economics, Organizations and Management"
+  primaryColor: "#007C41"
+  secondaryColor: "#FFDB05"
+  credits: >- 
+    Course website based on those shared by [Ryan Safner](https://github.com/ryansafner) and [Andrew Heiss](https://econw19.classes.andrewheiss.com/).
   logo:
-    alt: Logo
-    height: 50
-    url: logo.png
-    width: 50
+    url: /images/UA-ASB-COLOUR.png
+    alt: Business Economics, Organizations and Management
+  meta:
+    twitterSite: "@andrew_leach"
+    twitterCreator: "@andrew_leach"
+
 markup:
-  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
-      unsafe: yes
+      unsafe: true
