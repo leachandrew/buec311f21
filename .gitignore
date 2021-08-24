@@ -37,3 +37,12 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+
+# web folders for netlify compatibility
+/public
+
+# folders for private course info
+/private
+
