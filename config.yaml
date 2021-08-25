@@ -1,7 +1,7 @@
-baseurl: "buec311.aleach.ca"
+baseurl: "buec311.aleach.ca/"
 languageCode: "en-us"
 title: "Business Economics, Organizations and Management"
-theme: "rvs-tufte-hugo"
+theme: "rvs-hugo-tufte"
 googleAnalytics: ""
 ignoreFiles:
   - \.Rmd$
