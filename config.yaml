@@ -16,7 +16,7 @@ buildFuture: true
 menu:
   main:
     - name: Syllabus
-      url: "/syllabus-311.pdf"
+      url: "syllabus-311.pdf"
       weight: 1
     - name: Problem Sets
       url: /assignments/
