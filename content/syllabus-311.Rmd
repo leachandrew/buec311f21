@@ -12,6 +12,10 @@ title: "BUEC 311: Business Economics, Organization and Management"
 author: Andrew Leach
 date: "Fall 2020"
 
+bibliography: env.bibtex
+csl: chicago-fullnote-bibliography.csl
+
+
 email: "aleach@ualberta.ca"
 web: "www.andrewleach.ca"
 officehours: "By appointment"
