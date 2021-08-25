@@ -18,14 +18,11 @@ menu:
     - name: Syllabus
       url: "syllabus-311.pdf"
       weight: 1
-    - name: Problem Sets
-      url: /assignments/
-      weight: 3
-    - name: Schedule
+    - name: Class schedule and resource links
       url: /schedule/
       weight: 2
-    - name: eClass
-      url: "https://eclass.srv.ualberta.ca/portal/"
+    - name: eClass site
+      url: "https://eclass.srv.ualberta.ca/course/view.php?id=70884"
       weight: 7
 # Disable taxonomies
 taxonomies:

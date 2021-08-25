@@ -1,9 +1,8 @@
 ---
-title: "Schedule"
 slug: schedule
 ---
 
-This page contains all of the following resources for each topic. eClass will provide the same material.
+This page contains links to select class resources by topic. [eClass](https://eclass.srv.ualberta.ca/course/view.php?id=70884) will provide the same material.
 
 - <i class="fas fa-book-reader"></i> **Content** includes a summary of textbook chapters and external links cited in class
 - <i class="fas fa-chalkboard-teacher"></i> **Slides** are either "[Xaringan](https://github.com/yihui/xaringan)" presentations in html that can be opened in any browser (File > Print > Save as PDF if you wish to download them) or PDF decks. I generally do not use PowerPoint 
