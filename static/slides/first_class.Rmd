@@ -61,11 +61,10 @@ colors_ua10 <- function()
 .pull-left[
 - Some quick facts about me:
   - I grew up in Ottawa
-  - I have degrees in environmental science, economics and (soon) law
-  - My academic interests are environmental policy and energy markets
+  - I have degrees in environmental science, economics and law
+  - My academic interests are law and economics, environmental policy and energy markets
   - I've also worked in various governmental advisory roles
-  - This is my first time teaching this class and I'm excited to share my passion for economics with you
-  
+  - This is my second time teaching this class
 ]
 
 .pull-right[
@@ -78,13 +77,13 @@ colors_ua10 <- function()
 # Welcome!
 
 .pull-left[
-- Beyond the webcam
-  - I have two kids who you'll likely see on the webcam at some point
-  - I have a dog named Kona, and you may see him as well
-  - My main hobby is cycling
+- Beyond the classroom
+  - I have two kids aged 11 and 13
+  - I have a dog named Kona
+  - My main hobby is cycling, and I also play hockey and dabble in woodworking
   - I have a serious Twitter addiction
-- Expectations
-- Dealing with the circumstances as best we can
+- My expectations of you, your expectations of me
+- Dealing with the circumstances
 ]
 
 .pull-right[
@@ -93,8 +92,25 @@ colors_ua10 <- function()
 ]
 
 ---
+class: inverse, middle, center
+# About This Course
 
+---
 
+# Learning Goals
+
+By the end of this course, you will: 
+
+1. apply economic models to managerial and government decisions
+
+2. explore the effects of economic and political processes on market performance
+  - competition, market prices, profits and losses, property rights, entrepreneurship, market power, market failures, public policy, government failures
+
+3. apply the economic way of thinking to real world issues
+
+4. be able to access and interpret relevant economic data
+
+---
 
 # Learning Objectives
 
@@ -116,6 +132,132 @@ colors_ua10 <- function()
 ]
 
 ---
+
+
+# Class delivery
+
+- Regular class meetings will in person unless circumstances force us online
+- Each section will have 2 weekly in-person meetings, plus a recorded problem solving and review session
+  - T/TH classes during scheduled meeting times will last only (approximately) 50 minutes, supplemented by the recorded problem solving and review session
+  - M/W/F classes will have synchronous meetings during the first two scheduled meeting times of the week (usually M/W, unless M is a holiday) and the third class session will be the asynchronous problem solving and review class
+- At least one session for each will be recorded during the week, and posted on the eClass site to allow you to catch up
+
+---
+
+# Materials
+- eClass and my [supplementary website](http://buec311.aleach.ca) 
+
+- slides and problem sets
+
+- podcasts and other media
+
+- data
+
+- textbook
+
+---
+
+
+# Textbook
+
+Perloff, J. M., and J. A. Brander. Managerial Economics & Strategy. 3rd ed. NJ: Pearson, 2020.
+.center[
+![:scale 30%](../images/textbook.PNG)
+]
+
+---
+
+# Communication
+
+- eClass announcements
+
+- Email
+
+- Twitter
+
+- Class discussion and lecture materials
+
+---
+
+# Assignments
+
+```{r}
+assmt_table<-tribble(
+  ~Task, ~Type, ~Weight,
+  #--|--|----
+  "Flipgrid videos (4+)","online, one per month","20%",
+  "Quizzes (2)","In class","20%",
+  "Midterm","In class","20%",
+  "Final","As scheduled","40%"
+  )
+
+assmt_table%>%kable(align=c(rep('c',times=3)),format = "html", booktabs = T,linesep = "")%>%
+   kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
+```
+
+---
+
+
+# Evaluation
+
+```{r, fig.height=4}
+grades_table<-tribble(
+  ~Minimum, ~Maximum, ~Grade,
+  #--|--|----
+  90,100,"A+",
+  85,89.99,"A",
+  80,84.99,"A-",
+  77,79.99,"B+",
+  73,76.99,"B",
+  70,72.99,"B-",
+  67,69.99,"C+",
+  63,66.99,"C",
+  60,62.99,"C-",
+  55,59.99,"D+",
+  50,54.99,"D",
+  0,49.99,"F",
+  )
+grades_table%>%kable(align=c(rep('c',times=3)),format = "html", booktabs = T,linesep = "")%>%
+   kable_styling(font_size=18)
+```
+
+---
+
+
+# Tips for Success
+
+- Attend class.
+
+- Take notes.
+
+- Read the readings and do the problems.
+
+- Work together.
+
+- Ask questions, participate, and attend tutorials and virtual office hours.
+
+- Don't struggle in silence, you are not alone!
+
+---
+
+# Roadmap for the Semester
+- Topic 1: Introduction to the class, topics and goals as well as a summary of deliverables. 
+- Topic 2: Supply and demand (Ch. 2 and 3) 
+- Quiz 1: Week of Sept 27th, details TBA
+- Topic 3: The Consumer (Parts of Ch. 3 and 4) 
+- Topic 4: The Firm (Ch. 5, 6, 7) 
+- Midterm: Week of October 27th, details TBA
+- Topic 5: The Market (Ch. 8, 9, 10) 
+- Quiz 2: Week of November 24, details TBA
+- Topic 6: Competition, Strategic Behaviour, Game Theory (Ch. 11, 12, 13)
+- Topic 7: When Markets Fail (Ch. 15, 16)
+- Final exam: During exam period, details TBA.
+
+
+
+
+---
+
 
 
 
@@ -277,8 +419,6 @@ class: inverse, center, middle
 - Economics is a .hi-green[way of thinking] based on a few core ideas:
 - .hi[People respond to incentives]
     - Money, punishment, taxes and subsidies, risk of injury, reputation, profits, sex, effort, morals
-
-
 
 ---
 
@@ -464,6 +604,54 @@ Pictures [Source](https://www.rover.com/blog/nyc-subway-dogs-fs/), via [Ryan Saf
 
 ---
 
+# Wolfers and Stevenson's Basic Principles
+
+<iframe src="https://art19.com/shows/think-like-an-economist/episodes/a5f7943e-17ee-4767-a76b-d0aed7ccf98c/embed" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
+
+---
+
+
+# Wolfers and Stevenson's Basic Principles
+
+Principle # 1: The cost-benefit principle
+
+<iframe src="https://art19.com/shows/think-like-an-economist/episodes/f3d45e91-e0e7-4189-8853-9ddfb402b640/embed" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
+
+- What are the benefits and costs of each decision?
+- Why do we measure in dollars?
+   - "Economists love dollars as much as architects love inches"
+- Are you getting a good deal?
+
+---
+
+# Wolfers and Stevenson's Basic Principles
+
+Principle # 2: The opportunity cost principle
+
+<iframe src="https://art19.com/shows/think-like-an-economist/episodes/ec2c28a1-ff2b-42e4-b8c2-53dee2110494/embed" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
+
+- Or what?
+   - should I take this class or that one?
+   - should I major in BUEC or MKTG
+   - should I take this job or this internship?
+- What's my next-best alternative?
+
+---
+
+# Wolfers and Stevenson's Basic Principles
+
+Principle # 3: The marginal principle
+
+<iframe src="https://art19.com/shows/think-like-an-economist/episodes/ded15b20-2e37-49ae-8db7-1315149c534c/embed" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
+
+- Should we buy/sell one more?
+- Should we hire one more staff?
+- Should I add another class to my schedule?
+- Should I drop a class?
+
+---
+
+
 # More vocabulary
 .pull-left[
 - .hi[Comparative statics]: examining changes in equilibria cased by an external change (in incentives, constraints, etc.)
@@ -497,14 +685,19 @@ Pictures [Source](https://www.rover.com/blog/nyc-subway-dogs-fs/), via [Ryan Saf
 
 ---
 
-# Economics Is Broader Than You Think
 
-.center[
-![:scale 60%](https://www.dropbox.com/s/bqb48eg20ld6li9/cooleconbooks.png?raw=1)
+# Wolfers and Stevenson's Basic Principles
 
-Source: [Ryan Safner](https://github.com/ryansafner)]
+Principle # 4: The interdependence principle
 
+<iframe src="https://art19.com/shows/think-like-an-economist/episodes/f20b38ed-9218-4878-971e-46388b277e8f/embed" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
+
+- All else equal...but is it?
+- What happens to my best decision when other factors change?
+- Does my value depend on what others do? Network externalities?
 ---
+
+
 
 # Why We Model I
 
@@ -610,146 +803,4 @@ coord_equal()
 - Normative statements can inform objective functions
    - A decision-maker might look for a policy which does not increase inequality
    - Economists can provide constrained advice: this policy accomplishes your objective and **is unlikely to** increase inequality
-
----
-
-class: inverse, middle, center
-# About This Course
-
----
-
-# Learning Goals
-
-By the end of this course, you will: 
-
-1. apply economic models to managerial and government decisions
-
-2. explore the effects of economic and political processes on market performance
-  - competition, market prices, profits and losses, property rights, entrepreneurship, market power, market failures, public policy, government failures
-
-3. apply the economic way of thinking to real world issues
-
-4. be able to access and interpret relevant economic data
-
----
-# On-line learning setup
-
-- Regular class meetings will be on Zoom, with Google Meet as a backup
-- Each section will have 2 weekly synchronous meetings, plus a recorded problem solving and review session
-  - T/TH classes during scheduled meeting times will last only (approximately) 50 minutes, supplemented by the recorded problem solving and review session
-  - M/W/F classes will have synchronous meetings during the first two scheduled meeting times of the week (usually M/W, unless M is a holiday) and the third class session will be the asynchronous problem solving and review class
-- At least one session for each will be recorded during the week, and posted on the eClass site to allow you to catch up
-
-
----
-
-# Materials
-- eClass and my [supplementary](http://buec311.aleach.ca) website
-
-- slides and problem sets
-
-- podcasts and other media
-
-- data
-
-- textbook
-
----
-
-
-# Textbook
-
-Perloff, J. M., and J. A. Brander. Managerial Economics & Strategy. 3rd ed. NJ: Pearson, 2020.
-.center[
-![:scale 30%](../images/textbook.PNG)
-]
-
----
-
-# Communication
-
-- eClass announcements
-
-- Email
-
-- Twitter
-
-- Class discussion and lecture materials
-
----
-
-# Assignments
-
-```{r}
-assmt_table<-tribble(
-  ~Task, ~Type, ~Weight,
-  #--|--|----
-  "Breakout Briefings (2+)","In class","20%",
-  "Quizzes (2)","In class","20%",
-  "Midterm","In class","20%",
-  "Final","As scheduled","40%"
-  )
-
-assmt_table%>%kable(align=c(rep('c',times=3)),format = "html", booktabs = T,linesep = "")%>%
-   kable_styling(bootstrap_options = c("striped", "hover", "condensed"))
-```
-
----
-
-
-# Evaluation
-
-```{r, fig.height=4}
-grades_table<-tribble(
-  ~Minimum, ~Maximum, ~Grade,
-  #--|--|----
-  90,100,"A+",
-  85,89.99,"A",
-  80,84.99,"A-",
-  77,79.99,"B+",
-  73,76.99,"B",
-  70,72.99,"B-",
-  55,59.99,"D+",
-  67,69.99,"C+",
-  63,66.99,"C",
-  60,62.99,"C-",
-  55,59.99,"D+",
-  50,54.99,"D",
-  0,49.99,"F",
-  )
-grades_table%>%kable(align=c(rep('c',times=3)),format = "html", booktabs = T,linesep = "")%>%
-   kable_styling(font_size=18)
-```
-
----
-
-
-# Tips for Success
-
-- Attend class.
-
-- Take notes.
-
-- Read the readings and do the problems.
-
-- Work together.
-
-- Ask questions, participate, and attend tutorials and virtual office hours.
-
-- Don't struggle in silence, you are not alone!
-
----
-
-# Roadmap for the Semester
-- Topic 1: Introduction to the class, topics and goals as well as a summary of deliverables. 
-- Topic 2: Supply and demand (Ch. 2 and 3) 
-- Quiz 1: Week of Sept 26th, details TBA
-- Topic 3: The Consumer (Parts of Ch. 3 and 4) 
-- Topic 4: The Firm (Ch. 5, 6, 7) 
-- Midterm: Week of October 26th, details TBA
-- Topic 5: The Market (Ch. 8, 9, 10) 
-- Quiz 1: Week of November 23, details TBA
-- Topic 6: Competition, Strategic Behaviour, Game Theory (Ch. 11, 12, 13)
-- Topic 7: When Markets Fail (Ch. 15, 16)
-- Final exam: During exam period, details TBA.
 
