@@ -2,7 +2,7 @@ lessons:
   - title: '<span class="fake-header-table">I. Introduction to the Class</span>'
     header: True
 
-  - title: "First Class"
+  - title: "Introductory Deck"
     slides: "first_class.html"
 
   - title: '<span class="fake-header-table">II. Supply and Demand</span>'
@@ -11,68 +11,61 @@ lessons:
   - title: "Supply and Demand"
     slides: "supply_demand_full.pdf"
 
-  - title: "1.2 Scarcity, Choice, and Cost"
-    class: "1.2-class"
-    slides: "1.2-slides"
-  
-  - title: "Problem Set"
-    practice: "1.2-class"
-    
   - title: '<span class="fake-header-table">III. Empirical Methods</span>'
     header: True
 
-  - title: "Podcast"
-    assignment: "1.2-class"
+  - title: "Estimating Supply and Demand"
+    slides: "estimation_deck.pdf"
 
   - title: '<span class="fake-header-table">IV. The Consumer</span>'
     header: True
 
-  - title: "4.1 — Modeling Firms with Market Power"
-
-  - title: "4.2 — Consequences and Sources of Market Power"
-
-  - title: "4.3 — Pricing Strategies"
+  - title: "Consumer Theory"
+    slides: "consumer_prefs.pdf"
 
   - title: '<span class="fake-header-table">V. The Firm</span>'
     header: True
 
-  - title: "4.4 — Factor Markets"
-  
+  - title: "Firm Theory 1"
+    slides: "firm_theory.pdf"
+    
+  - title: "Firm Theory 2"
+    slides: "firm_theory.pdf"
+
+  - title: "Firm Theory 3"
+    slides: "firm_theory_3.pdf"
+
   - title: '<span class="fake-header-table">VI. The Market</span>'
     header: True
     
+  - title: "Perfect Competition"
+    slides: "perfect_competition.pdf"
+
+  - title: "Monopoly"
+    slides: "monopoly.pdf"
+
+  - title: "Oligopoly"
+    slides: "oligopoly.pdf"
+  
+  - title: "Price Discrimination"
+    slides: "pricing_w_mkt_power.pdf"
+  
   - title: '<span class="fake-header-table">VII. Competition and Strategic Behaviour</span>'
     header: True
 
-  - title: "4.5 — Monopolistic Competition and Oligopoly"
-
+  - title: "Static Game Theory"
+    slides: "static_game_theory.pdf"
+  
+  - title: "Dynamic Game Theory"
+    slides: "dynamic_games.pdf"
+  
   - title: '<span class="fake-header-table">VIII. Market Failure</span>'
     header: True
 
-  - title: "4.5 — Monopolistic Competition and Oligopoly"
-
+  - title: "Government Intervention and Market Failure"
+    slides: "govt_intervention.pdf"
   
-  - title: "4.6 — Contestable Markets and Wrap Up"
-
-  - title: '<i class="fas fa-laptop-code"></i> **Problem Set 6**'
-    practice: "1.2-class"
- 
-  - title: '<span class="fake-header-table">VII. Game Theory</span>'
-    header: True
-
-    
-  - title: '<i class="fas fa-laptop-code"></i> **Problem Set 7**'
-
-  - title: '<span class="fake-header-table">IX. When Markets Fail</span>'
-    header: True
+  - title: '<i class="fas fa-star"></i> **Sample Midterm Exam**'
 
 
-  - title: '<i class="fas fa-laptop-code"></i> **Podcast alone**'
-    assignment: "pc3"
-
-  - title: '<i class="fas fa-chalkboard-teacher"></i> **Slides alone**'
-    assignment: "op-ed"
-
-  - title: '<i class="fas fa-star"></i> **Final Exam Information**'
-  
   - title: '<i class="fas fa-star"></i> **Sample Final Exam**'
