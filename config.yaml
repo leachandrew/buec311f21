@@ -15,7 +15,7 @@ permalinks:
 buildFuture: true
 menu:
   main:
-    - name: Syllabus
+    - name: Syllabus (PDF)
       url: "syllabus-311.pdf"
       weight: 1
     - name: Class schedule and resource links
