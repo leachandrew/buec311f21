@@ -1,3 +1,25 @@
+/* TYPOGRAPHY */
+
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:200,400,600,800);
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono:400,700);
+
+
+body {
+  font-family: 'Fira Sans Condensed',
+  sans;
+}
+
+h1, h2, h3 {
+  font-weight: 800;
+}
+
+.remark-code, .remark-inline-code {
+  font-family: 'Fira Mono',
+  monospace;
+}
+
+
 /*Ideas for title slide (aligned left, fa-icons, etc) from https://github.com/apreshill/talks/blob/master/orasa-big-magic/css/my-theme.css*/
 
 /* ----ADDING------------------------------------------------ */
@@ -17,29 +39,131 @@
   float: left;
 }
 
+
+/* 
+Three column layout
+*/
+.pull-left-3 {
+  float: left;
+  width: 30%;
+  padding: 0 2.5% 0 0;
+}
+
+.pull-middle-3 {
+  float: left;
+  width: 30%;
+  padding: 0 2.5%;
+}
+
+.pull-right-3 {
+  float: right;
+  width: 30%;
+  padding: 0 0 0 2.5%;
+}
+
+.pull-right-3 ~ * {
+  clear: both;
+}
+
+
+/*
+Wider pull left/right
+*/
+.pull-left-wide {
+  float: left;
+  width: 65%;
+}
+
+.pull-left-narrow {
+  float: left;
+  width: 32%;
+}
+
+.pull-right-wide {
+  float: right;
+  width: 65%;
+}
+
+.pull-right-narrow {
+  float: right;
+  width: 32%;
+}
+
+.pull-right-narrow ~ *,
+.pull-right-wide ~ * {
+  clear: both;
+}
+
 /* Create a highlighted class called 'hi'  */
 .hi {
   font-weight: 600;
-  color: #FFDB05 !important;
+  color: #e64173 !important;
+}
+.hi-pink {
+  font-weight: 600;
+  color: #e64173 !important;
+}
+.hi-slate {
+  font-weight: 600;
+  color: #314f4f !important;
+}
+.hi-turquoise {
+  font-weight: 600;
+  color: #44C1C4 !important;
+}
+.hi-purple {
+  font-weight: 600;
+  color: #6A5ACD !important;
+}
+.hi-orange {
+  font-weight: 600;
+  color: #FFA500 !important;
+}
+.hi-yellow{
+  font-weight: 600;
+  color: #D8BD44 !important;
 }
 .hi-green {
   font-weight: 600;
-  color: #007C41 !important; /*U of A Green*/
+  color: #7CAE96 !important;
 }
-.hi-gold {
+.hi-grey {
   font-weight: 600;
-  color: #FFDB05 !important; /*U of A Gold*/
+  color: #8AA19E !important;
 }
-/* Gold text */
-.gold {
-  color: #FFDB05 !important;
+.hi-blue {
+  font-weight: 600;
+  color: #0047AB !important;
+}
+.hi-red {
+  font-weight: 600;
+  color: #D7250E !important;
+}
+/* Pink text */
+.pink {
+  color: #e64173 !important;
 }
 /* Slate ("darkslategrey") text */
 .slate {
   color: #314f4f !important;
 }
+/* Turquoise ("lightseagreen") text */
+.turquoise {
+  color: #44C1C4 !important;
+}
+/* Purple-ish ("slateblue") text */
+.purple {
+  color: #6A5ACD !important;
+}
+/* Orange ("orange") text */
+.orange {
+  color: #FFA500 !important;
+}
+.yellow{
+  color: #D8BD44 !important;
+}
 .green {
-  color: #007C41 !important; /*U of A Green*/
+  color: #7CAE96 !important;
 }
 .grey {
   color: #8AA19E !important;
@@ -70,11 +194,31 @@
 /* Mono-spaced font */
 .mono {
   font-family: monospace;
+  font-size: 100%
 }
+
+/* Italic (helpful for tables) */
+.it {
+  font-style: italic;
+}
+
+/* Bold (helpful for tables) */
+.b {
+  font-weight: 600;
+}
+
+/* Math font */
+.math {
+  font-family: "MathJax_Math";
+  font-weight: 400;
+}
+
 /* Underline */
 .ul {
   text-decoration: underline;
+  display: inline-block;
 }
+
 /* Overline */
 .ovl {
   text-decoration: overline;
@@ -96,6 +240,16 @@
   background-color: rgba(249, 39, 114, 0.5);
 }
 
+/* FONT WEIGHTS */
+
+.light{
+  font-weight: 200;
+}
+
+.heavy{
+  font-weight: 800;
+}
+
 .bigger {
   font-size: 125%;
 }
@@ -106,6 +260,10 @@
 
 .smallest {
   font-size: 85%;
+}
+
+.quitesmall {
+  font-size: 70%;
 }
 
 .tiny {
@@ -122,7 +280,7 @@
   font-size: 20px;
 }
 
-.super{
+.sup{
   vertical-align: super;
   font-size: 70%;
 }
@@ -158,29 +316,29 @@
   padding-left: 1%;
 }
 
- /* unvisited link, ualberta green */
+/* link color */
+a, a > code {
+  color: #DB7093; /* originally #f92672 , then 88c0d0 too light, #5E81AC too dark on gray */
+}
+
+/* unvisited link */
 a:link {
-  color: #007C41;
+    color: #DB7093;
 }
 
 /* visited link */
 a:visited {
-  color: #007C41;
+    color: #5E81AC; /* #F08080, #5E81AC originally */ 
 }
 
 /* mouse over link */
 a:hover {
-  color: #FFDB05;
+    color: #e5e9f0; /* originally 81a1c1 then B48EAD*/
 }
 
 /* selected link */
 a:active {
-  color: #007C41;
-} 
-
-/* selected link */
-a:active {
-    color: #FFDB05;
+    color: #B48EAD;
 }
 
 /* -----FINISHED ADDING------------------------------------------ */ 
@@ -248,15 +406,15 @@ blockquote {
 .remark-slide table {
   margin: auto;
   color: #000;
-  background-color: #eee;
+  /* background-color: #eee; */
   border-top: 1px solid #666;
   border-bottom: 1px solid #666;
   font-size: 26px;
 }
 
-.remark-slide table thead th { border-bottom: 2px solid #666; }
+.remark-slide table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
-.remark-slide thead, .remark-slide tfoot { background: #afafaf } /*  .remark-slide tr:nth-child(even) */
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #eee }
 
 
 /* Class of tables with no stripe - for regression outputs*/
@@ -275,16 +433,16 @@ th, td { padding: 5px; }
   }
 }
 
-/* Custom things start below - remark slides are the basic slides */ 
+/* Custom things start below */ 
 
 .remark-slide-content {
-  background-color: #ffffff ; /* white background */
-  background-image: url("UA-ASB-COLOUR.png");
-  background-position: 98% 98%;
-  background-size: 18%;
+  background-color: #F5F5F5 ; /* #23373B; */
+  background-image: url(https://microf20.classes.ryansafner.com/images/micro_hex.png);
+  background-position: 99% 1%;
+  background-size: 7%;
   color: #000000;
   font-size: 28px;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 1.5;
   padding: 0em 2em 1em 2em /* 1em first */
 }
@@ -304,11 +462,11 @@ th, td { padding: 5px; }
 
 .remark-slide-number .progress-bar {
   height: 100%;
-  background-color:#007C41;/*U of A Green*/
+  background-color: #56B4E9; /* blue */
 }
 
 .title-slide .inverse .remark-slide-content {
-  background-color:#007C41;/*U of A Green*/
+  background-color: #A59C94;
 }
 
 .blank {
@@ -321,28 +479,28 @@ th, td { padding: 5px; }
   border-top: 0px solid #FFFFFF;
 }
 
-/* This is what gets used for titles alone */
+/* .blankgray-content > h1 {
+  color: #236192;
+} */
 
 .inverse {
-  background-color:#FFFFFF;/*white*/
+  background-color: #236192; /* #236192; */
   text-shadow: none;
 }
 
 .remark-slide-content > h1 {
-  font-variant: normal;
-  font-family: 'Yanone Kaffeesatz';
-  font-weight: normal;
-  font-size: 60px;
+  /* font-variant: normal;
+  /* font-weight: normal; */
+  font-size: 48px;
   margin-top: 0px;
-  margin-bottom: 0px;
   margin-left: -00px;
-  color: #007C41; /* U of A Green headings */
+  color: #236192; /* #56B4E9 ; FAFAFA */
 }
 
 .inverse > h1 {
   /*font-variant: small-caps;*/
-  font-size: 60px;
-  color: #007C41;/*U of A Green*/
+  font-size: 56px;
+  color: #FFFFFF;
 }
 
 .remark-slide-content > inverse {
@@ -373,60 +531,38 @@ color: #23373B;
   font-size: 30px;
 }
 
-
-div.slide {
-  z-index: 20;
-  margin: 30 30 30 30;
-  padding: 10;
-  border-width: 0;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  line-height: 120%;
-  background-color: #ffffff;
-  background-image: url("UA-ASB-COLOUR.png");
-  background-position: 95% 95%;
-  background-repeat: no-repeat;
-  background-size: 200px;
-  
-}
-
-
-
 .title-slide {
-  background-color: #ffffff;
-  background-image: url("UA-ASB-COLOUR.png");
-  background-position: 8% 8%;
-  background-size: 30%;
+  background-color: #236192;
+  background-image: url(https://microf20.classes.ryansafner.com/images/micro_hex.png);
+  background-position: 99% 90%;
+  background-size: 25%;
 }
 
 .title-slide > h1  {
-  color: #007C41;/*U of A Green*/
-  font-variant: normal;
-  font-size: 50px;
-  font-family: 'Yanone Kaffeesatz';
-  text-shadow: none;
-  font-weight: 400;
+  color: #FFFFFF;
+  /* font-variant: normal; */
+  font-size: 56px;
+  /* text-shadow: none; */
+  /*font-weight: 400; */
   text-align: left; /*changed from center*/
   margin-left: 15px;
-  padding-top: 0px; /* changed from 0*/
+  padding-top: 250px; /* changed from 0*/
 }
 .title-slide > h2  {
-  margin-top: 20px; /* changed from -25*/
-  padding-bottom: 0px;
-  color: #007C41;
-  text-shadow: none;
-  font-weight: 300;
-  font-size: 50px;
+  margin-top: -50px; /* changed from -25*/
+  padding-bottom: -20px;
+  color: #FFFFFF;
+  /* text-shadow: none; */
+  /* font-weight: 300; */
+  font-size: 40px;
   text-align: left; /*changed from center*/
   margin-left: 15px;
 }
 .title-slide > h3  {
-  margin-top: 20px;  /*added*/
-  color: #007C41;
-  text-shadow: none;
-  font-weight: 300;
+  margin-top: 0px;  /*added*/
+  color: #FFFFFF;
+  /* text-shadow: none; */
+  /* font-weight: 300; */
   font-size: 30px;
   text-align: left; /*changed from center*/
   margin-left: 15px;
@@ -435,13 +571,11 @@ div.slide {
 
 .remark-slide-number {
   font-size: 13pt;
-  font-family: 'Fira Sans';
   color: #272822;
   opacity: 1;
 }
 .inverse .remark-slide-number {
   font-size: 13pt;
-  font-family: 'Fira Sans';
   color: #FAFAFA;
   opacity: 1;
 }
@@ -456,7 +590,7 @@ div.slide {
   width: 300px;
   background-repeat: no-repeat;
   background-size: contain;
-  background-image: url("UA-ASB-COLOUR.png");
+  background-image: url(https://www.dropbox.com/s/l5t6dop5zyku1q5/hoodcollege.png?raw=1);
 }
 
 /* turns off slide numbers for title page: https://github.com/gnab/remark/issues/298 */
@@ -644,14 +778,3 @@ div.slide {
 for nice numbered bullets 
 https://github.com/malcolmbarrett/kakashi/blob/master/kakashi.css 
 */ 
-
-
-.content-box-ua {
-    margin: 0 0 25px;
-    overflow: hidden;
-    padding: 20px;
-     background-color:#7D9AAA;/*U of A Grey*/
-     color: #FFFFFF;
-     
-}
-
