@@ -8,7 +8,6 @@ This page contains links to select class resources by topic. [eClass](https://ec
 - <i class="fas fa-chalkboard-teacher"></i> **Slides** are either "[Xaringan](https://github.com/yihui/xaringan)" presentations in html that can be opened in any browser (File > Print > Save as PDF if you wish to download them) or PDF decks. I generally do not use PowerPoint 
 - <i class="fas fa-dumbbell"></i> **Practice** problems and solutions will be crucial for your success in this course
 - <i class="fas fa-laptop-code"></i> **Other Resources** including podcasts, videos, or other things I think you might find useful
-Relevant materials (if applicable, icons will become links) will be posted before class meets
 
 **Last Update**: [`r format(Sys.time(), "%X %a %b %d %Y")`](https://github.com/leachandrew/buec_311_f21/commits/main).
 
