@@ -1,10 +1,15 @@
 lessons:
-  - title: '<span class="fake-header-table">I. Supply and Demand</span>'
+  - title: '<span class="fake-header-table">I. Introduction to the Class</span>'
     header: True
 
-  - title: "1.1 The Tools of Microeconomics"
-    content: "1.2-class"
-    slides: "1.2-slides"
+  - title: "First Class"
+    slides: "first_class.html"
+
+  - title: '<span class="fake-header-table">II. Supply and Demand</span>'
+    header: True
+
+  - title: "Supply and Demand"
+    slides: "supply_demand_full.pdf"
 
   - title: "1.2 Scarcity, Choice, and Cost"
     class: "1.2-class"
@@ -13,13 +18,13 @@ lessons:
   - title: "Problem Set"
     practice: "1.2-class"
     
-  - title: '<span class="fake-header-table">II. Empirical Methods</span>'
+  - title: '<span class="fake-header-table">III. Empirical Methods</span>'
     header: True
 
   - title: "Podcast"
     assignment: "1.2-class"
 
-  - title: '<span class="fake-header-table">III. The Consumer</span>'
+  - title: '<span class="fake-header-table">IV. The Consumer</span>'
     header: True
 
   - title: "4.1 — Modeling Firms with Market Power"
@@ -28,19 +33,25 @@ lessons:
 
   - title: "4.3 — Pricing Strategies"
 
-  - title: '<span class="fake-header-table">IV. The Firm</span>'
+  - title: '<span class="fake-header-table">V. The Firm</span>'
     header: True
 
   - title: "4.4 — Factor Markets"
   
-  - title: '<span class="fake-header-table">V. The Market</span>'
+  - title: '<span class="fake-header-table">VI. The Market</span>'
     header: True
     
-  - title: '<span class="fake-header-table">VI. Competition and Strategic Behaviour</span>'
+  - title: '<span class="fake-header-table">VII. Competition and Strategic Behaviour</span>'
     header: True
 
   - title: "4.5 — Monopolistic Competition and Oligopoly"
 
+  - title: '<span class="fake-header-table">VIII. Market Failure</span>'
+    header: True
+
+  - title: "4.5 — Monopolistic Competition and Oligopoly"
+
+  
   - title: "4.6 — Contestable Markets and Wrap Up"
 
   - title: '<i class="fas fa-laptop-code"></i> **Problem Set 6**'
