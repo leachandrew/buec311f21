@@ -18,15 +18,12 @@ menu:
     - name: Syllabus
       url: "syllabus-311.pdf"
       weight: 1
-    - name: Assignments
+    - name: Problem Sets
       url: /assignments/
       weight: 3
     - name: Schedule
       url: /schedule/
       weight: 2
-    - name: Resources
-      url: /resources/
-      weight: 5
     - name: eClass
       url: "https://eclass.srv.ualberta.ca/portal/"
       weight: 7

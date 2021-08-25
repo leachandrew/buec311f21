@@ -3,17 +3,15 @@ title: "Schedule"
 slug: schedule
 ---
 
-This page contains all of the following resources for each class meeting: 
+This page contains all of the following resources for each topic. eClass will provide the same material.
 
-- <i class="fas fa-book-reader"></i> **Readings** include textbook chapters and occasional journal articles
-- <i class="fas fa-laptop-code"></i> **Assignments** are due by the beginning of class unless otherwise stated
-- <i class="fas fa-info-circle"></i> **Class** materials contain extra explanations, math/statistical properties & proofs, and other helpful resources^[These "online appendices" keep the slides nice and de-cluttered!]
-- <i class="fas fa-chalkboard-teacher"></i> **Slides** are "[Xaringan](https://github.com/yihui/xaringan)" presentations in html that can be opened in any browser^[`File > Print > Save as PDF` if you wish to download them]
-- <i class="fas fa-dumbbell"></i> **Practice** problems we work on together in class to prepare for homeworks and exams
+- <i class="fas fa-book-reader"></i> **Content** includes a summary of textbook chapters and external links cited in class
+- <i class="fas fa-chalkboard-teacher"></i> **Slides** are either "[Xaringan](https://github.com/yihui/xaringan)" presentations in html that can be opened in any browser (File > Print > Save as PDF if you wish to download them) or PDF decks. I generally do not use PowerPoint 
+- <i class="fas fa-dumbbell"></i> **Practice** problems and solutions will be crucial for your success in this course
+- <i class="fas fa-laptop-code"></i> **Other Resources** including podcasts, videos, or other things I think you might find useful
+Relevant materials (if applicable, icons will become links) will be posted before class meets
 
-Relevant materials (if applicable, icons will become links) will be posted before class meets.
-
-**Last Update**: [`r format(Sys.time(), "%X %a %b %d %Y")`](https://github.com/ryansafner/microS20/commits/master).
+**Last Update**: [`r format(Sys.time(), "%X %a %b %d %Y")`](https://github.com/leachandrew/buec_311_f21/commits/main).
 
 ---
 
