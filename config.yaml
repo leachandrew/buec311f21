@@ -19,10 +19,10 @@ menu:
       url: "syllabus-311.pdf"
       weight: 1
     - name: Assignments
-      url: /assignments/
+      url: assignments/
       weight: 3
     - name: Schedule
-      url: /schedule/
+      url: schedule/
       weight: 2
     - name: Resources
       url: /resources/
