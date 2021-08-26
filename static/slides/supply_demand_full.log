@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  13 SEP 2020 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  26 AUG 2021 09:51
 entering extended mode
 **./supply_demand_full.tex
 (supply_demand_full.tex
@@ -2264,10 +2264,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33694 strings out of 492946
- 694727 string characters out of 3135524
- 703928 words of memory out of 3000000
- 36826 multiletter control sequences out of 15000+200000
+ 33686 strings out of 492946
+ 694569 string characters out of 3135524
+ 703845 words of memory out of 3000000
+ 36818 multiletter control sequences out of 15000+200000
  547918 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,17n,70p,807b,973s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2281,7 +2281,7 @@ ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmssi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on supply_demand_full.pdf (98 pages, 3511691 bytes).
+Output written on supply_demand_full.pdf (98 pages, 3511724 bytes).
 PDF statistics:
  3264 PDF objects out of 3580 (max. 8388607)
  203 named destinations out of 1000 (max. 500000)
