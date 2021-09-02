@@ -95,6 +95,12 @@ colors_ua10 <- function()
 class: inverse, middle, center
 # About This Course
 
+.center[
+![:scale 80%](../images/make_it_harder.png)
+]
+
+
+
 ---
 
 # Learning Goals
