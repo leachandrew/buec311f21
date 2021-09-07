@@ -82,7 +82,7 @@ This week's problems are meant to get you thinking about economics in everyday l
 
    a) When commodities analysts talk about demand increasing or decreasing over time, what do they mean?
    b) What's different about this graphic compared to the demand graphs that we use in class?
-   c) [this is a tough question for week 1] Does an increase in demand as shown in the graph below, for example from 2018 through 2019, necessarily mean that there was an increase in demand (i.e. a shift to the right in the demand curve)?
+   c) [this is a tough question for week 1] Does an increase in "demand" as shown in the graph below, for example from 2018 through 2019, necessarily mean that there was an increase in "demand" as we use it in economics (i.e. a shift to the right in the demand curve)?
    
    \centering
 \includegraphics[width=0.85\textwidth]{../images/demand.png}
