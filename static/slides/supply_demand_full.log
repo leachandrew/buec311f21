@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  6 SEP 2021 20:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  9 SEP 2021 10:40
 entering extended mode
 **./supply_demand_full.tex
 (supply_demand_full.tex
@@ -1894,25 +1894,25 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1030.
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1049.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1048.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [59
 
 ]
 File: ../images/equil_expl_2.png Graphic file (type png)
 <use ../images/equil_expl_2.png>
-Package pdftex.def Info: ../images/equil_expl_2.png  used on input line 1061.
+Package pdftex.def Info: ../images/equil_expl_2.png  used on input line 1060.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1061.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1060.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [60
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1082.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1081.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
 
 [61
@@ -1920,14 +1920,14 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1082.
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1096.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1095.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [62
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1109.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1108.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [63
 
@@ -1936,18 +1936,18 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1109.
 File: ../images/equil_shift_income.png Graphic file (type png)
 <use ../images/equil_shift_income.png>
 Package pdftex.def Info: ../images/equil_shift_income.png  used on input line 1
-124.
+123.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1124.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1123.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [64
 
  <../images/equil_shift_income.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1135.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1134.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [65
 
@@ -1955,11 +1955,11 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1135.
 File: ../images/equil_shift_income.png Graphic file (type png)
 <use ../images/equil_shift_income.png>
 Package pdftex.def Info: ../images/equil_shift_income.png  used on input line 1
-148.
+147.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1148.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1147.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [66
 
@@ -1968,32 +1968,32 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1148.
 File: ../images/equil_shift_mvmt1.png Graphic file (type png)
 <use ../images/equil_shift_mvmt1.png>
 Package pdftex.def Info: ../images/equil_shift_mvmt1.png  used on input line 11
-61.
+60.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1161.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1160.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [67
 
  <../images/equil_shift_mvmt1.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1179.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1178.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [68
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1196.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1195.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [69
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1222.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1221.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [70
 
@@ -2001,18 +2001,18 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1222.
 File: ../images/equil_shift_mvmt1.png Graphic file (type png)
 <use ../images/equil_shift_mvmt1.png>
 Package pdftex.def Info: ../images/equil_shift_mvmt1.png  used on input line 12
-35.
+34.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1235.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1234.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [71
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1246.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1245.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [72
 
@@ -2021,18 +2021,18 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1246.
 File: ../images/equil_shift_crude.png Graphic file (type png)
 <use ../images/equil_shift_crude.png>
 Package pdftex.def Info: ../images/equil_shift_crude.png  used on input line 12
-60.
+59.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1260.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1259.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [73
 
  <../images/equil_shift_crude.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1272.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1271.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [74
 
@@ -2040,11 +2040,11 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1272.
 File: ../images/equil_shift_crude.png Graphic file (type png)
 <use ../images/equil_shift_crude.png>
 Package pdftex.def Info: ../images/equil_shift_crude.png  used on input line 12
-86.
+85.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1286.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1285.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [75
 
@@ -2052,26 +2052,26 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1286.
 <../images/equil_shift_mvmt.png, id=2460, 578.16pt x 433.62pt>
 File: ../images/equil_shift_mvmt.png Graphic file (type png)
 <use ../images/equil_shift_mvmt.png>
-Package pdftex.def Info: ../images/equil_shift_mvmt.png  used on input line 130
-0.
+Package pdftex.def Info: ../images/equil_shift_mvmt.png  used on input line 129
+9.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1300.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1299.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [76
 
  <../images/equil_shift_mvmt.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1319.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1318.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [77
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1341.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1340.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [78
 
@@ -2079,18 +2079,18 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1341.
 File: ../images/equil_shift_mvmt.png Graphic file (type png)
 <use ../images/equil_shift_mvmt.png>
 Package pdftex.def Info: ../images/equil_shift_mvmt.png  used on input line 135
-8.
+7.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1358.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1357.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [79
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1372.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1371.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
 
 [80
@@ -2100,46 +2100,46 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1372.
 File: ../images/equil_shift_both.png Graphic file (type png)
 <use ../images/equil_shift_both.png>
 Package pdftex.def Info: ../images/equil_shift_both.png  used on input line 138
-6.
+5.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1386.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1385.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [81
 
  <../images/equil_shift_both.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1398.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1397.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [82
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1416.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1415.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [83
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1431.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1430.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [84
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1456.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1455.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [85
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1477.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1476.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [86
 
@@ -2148,11 +2148,11 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1477.
 File: ../images/equil_price_ceiling.png Graphic file (type png)
 <use ../images/equil_price_ceiling.png>
 Package pdftex.def Info: ../images/equil_price_ceiling.png  used on input line 
-1489.
+1488.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1489.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1488.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [87
 
@@ -2161,25 +2161,25 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1489.
 File: ../images/equil_price_floor.png Graphic file (type png)
 <use ../images/equil_price_floor.png>
 Package pdftex.def Info: ../images/equil_price_floor.png  used on input line 15
-01.
+00.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1501.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1500.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [88
 
  <../images/equil_price_floor.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1514.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1513.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [89
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1527.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1526.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
 
 [90
@@ -2189,11 +2189,11 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1527.
 File: ../images/equil_shift_tax_supply.png Graphic file (type png)
 <use ../images/equil_shift_tax_supply.png>
 Package pdftex.def Info: ../images/equil_shift_tax_supply.png  used on input li
-ne 1539.
+ne 1538.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1539.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1538.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [91
 
@@ -2202,53 +2202,53 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1539.
 File: ../images/equil_shift_tax_demand.png Graphic file (type png)
 <use ../images/equil_shift_tax_demand.png>
 Package pdftex.def Info: ../images/equil_shift_tax_demand.png  used on input li
-ne 1551.
+ne 1550.
 (pdftex.def)             Requested size: 398.3386pt x 298.75482pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1551.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1550.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [92
 
  <../images/equil_shift_tax_demand.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1569.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1568.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [93
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1595.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1594.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [94
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1616.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1615.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [95
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1638.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1637.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [96
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1649.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1648.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [97
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1661.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1660.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [98
 
@@ -2262,11 +2262,11 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 1661.
 \tf@snm=\write8
 \openout8 = `supply_demand_full.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1663.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1663.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1662.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1662.
  (supply_demand_full.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1663.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1663.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1662.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1662.
 
 Package rerunfilecheck Info: File `supply_demand_full.out' has not changed.
 (rerunfilecheck)             Checksum: CDAA310F333AB9A3B705D81624F704D7;315.
@@ -2293,7 +2293,7 @@ ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmssi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
 /cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on supply_demand_full.pdf (98 pages, 3710656 bytes).
+Output written on supply_demand_full.pdf (98 pages, 3710795 bytes).
 PDF statistics:
  3268 PDF objects out of 3580 (max. 8388607)
  203 named destinations out of 1000 (max. 500000)
