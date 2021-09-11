@@ -66,7 +66,7 @@ This week's problems are meant to give you some practice on the basic tricks you
    
    b) Check your work. Use the demand curve to figure out the price at Q=2, and then show, both algebraically and graphically, that the same result is obtain from your inverse demand function.
    
-   c) How many cups of coffee would you expect me to consume per day at a price of      $2 per cup? Assume that I can't buy fractions of a cup.
+   c) How many cups of coffee would you expect me to consume per day at a price of $2 per cup? Assume that I can't buy fractions of a cup.
 
    d) If I arrive in a meeting and there's free coffee, but I've already had 3 cups of coffee today, should I have another cup? Why or why not?
 
@@ -89,3 +89,5 @@ This week's problems are meant to give you some practice on the basic tricks you
 4. In Episode 3 of the Think Like an Economist podcast, The Marginal Principle, from 5:48 to 9:45, we hear a discussion of hiring decisions framed around the marginal benefits and marginal costs of hiring workers in a coffee shop. The estimate of the marginal benefits of hiring a third barista includes an estimated benefit of $100, but also includes some other considerations.
 
 In your own words, describe why this dollar estimate doesn't accurately reflect the owner's assessment of the benefits of hiring of third worker as revealed through his own decisions, and how the assessment of marginal benefits might have been done from the outset. 
+
+Note: I'm not asking you this because I expect you to have memorized the podcast - I expect you to take 5 minutes and listen to it now, think abuot it, and then answer the question.
