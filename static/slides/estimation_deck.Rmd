@@ -330,7 +330,7 @@ stargazer(fit,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,
 
 ## A basic, univariate regression
 \vspace{-.5cm}
-```{r nhl_salary_sum_2,title="NHL Salary Regression Models\vspace{-1cm}",results='asis',echo=FALSE,cache=FALSE}
+```{r nhl_salary_sum_2,title="NHL Salary Regression Models\vspace{-1cm}",results='asis',echo=FALSE,cache=FALSE,results='asis'}
 stargazer(fit,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,single.row = TRUE,omit.stat = c("rsq", "f"),title="NHL Salary Regression Models")
 ```
 - The standard errors tell us how precisely the coefficients are estimated. A consistent relationship or a larger sample size will give you smaller standard errors.
@@ -548,7 +548,7 @@ stargazer(fit,fit_toi,fit_toi_pos,align=TRUE,font.size="tiny",header=FALSE,inter
 \vspace{-.5cm}
 
 ```{r nhl_salary_SQ,results='asis',echo=FALSE,cache=FALSE}
-stargazer(fit,fit_toi,fit_toi_2,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,single.row = TRUE,title="NHL Salary Regression Models",omit.stat = c("rsq", "f"),column.sep.width = "-15pt")
+stargazer(fit,fit_toi,fit_toi2,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,single.row = TRUE,title="NHL Salary Regression Models",omit.stat = c("rsq", "f"),column.sep.width = "-15pt")
 ```
 - Note here that, as we add variables to the regression which help explain the salary levels, we're allowing for non-linear effects of points or toi. Why?
 
@@ -602,7 +602,7 @@ stargazer(fit_toi,fit_2m,fit_4m,align=TRUE,font.size="tiny",header=FALSE,interce
 
 Andrew Leach, Nic Rivers, and Blake Shaffer. 2020. Canadian Electricity Markets during the COVID-19 Pandemic: An Initial Assessment. \textit{Canadian Public Policy} 46:S2, S145-S159
 
-- apologies for the self-citation, but it's new work that I can talk about pretty easily
+- apologies for the self-citation, but it's work that I can talk about pretty easily
 
 - we were interested in how the electricity market in 4 provinces had changed after the COVID-19 pandemic started
 
