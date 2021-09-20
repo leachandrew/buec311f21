@@ -229,7 +229,7 @@ https://www.nytimes.com/video/movies/100000001341145/clip-moneyball.html
 ## Economic Moneyball
 
 
-Much of the estimation of demand is trying to determine, with statistical tolls, the marginal willingness to pay for just one more:
+Much of the estimation of demand is trying to determine, with statistical tools, the marginal willingness to pay for just one more:
 
 - run
 - year of education

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  19 SEP 2021 22:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  19 SEP 2021 22:42
 entering extended mode
 **./estimation_deck.tex
 (estimation_deck.tex
@@ -1070,47 +1070,7 @@ Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box65
 ) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\dcolumn.sty"
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
-) (estimation_deck.aux
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-
-LaTeX Warning: Label `' multiply defined.
-
-)
+) (estimation_deck.aux)
 \openout1 = `estimation_deck.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 317.
@@ -1304,7 +1264,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
 (estimation_deck.nav)
-<UA-ASB-COLOUR.png, id=28, 410.9754pt x 49.3845pt>
+<UA-ASB-COLOUR.png, id=20, 410.9754pt x 49.3845pt>
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
 Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 329.
@@ -1420,7 +1380,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 402.
 [4
 
 ]
-<estimation_deck_files/figure-beamer/demand_graph_1-1.pdf, id=74, 867.24pt x 50
+<estimation_deck_files/figure-beamer/demand_graph_1-1.pdf, id=68, 867.24pt x 50
 5.89pt>
 File: estimation_deck_files/figure-beamer/demand_graph_1-1.pdf Graphic file (ty
 pe pdf)
@@ -1435,7 +1395,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 407.
 [5
 
  <./estimation_deck_files/figure-beamer/demand_graph_1-1.pdf>]
-<estimation_deck_files/figure-beamer/demand_graph_2-1.pdf, id=89, 867.24pt x 50
+<estimation_deck_files/figure-beamer/demand_graph_2-1.pdf, id=83, 867.24pt x 50
 5.89pt>
 File: estimation_deck_files/figure-beamer/demand_graph_2-1.pdf Graphic file (ty
 pe pdf)
@@ -1517,7 +1477,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 623.
 [14
 
 ]
-<estimation_deck_files/figure-beamer/nhl_salary_graph-1.pdf, id=177, 867.24pt x
+<estimation_deck_files/figure-beamer/nhl_salary_graph-1.pdf, id=171, 867.24pt x
  505.89pt>
 File: estimation_deck_files/figure-beamer/nhl_salary_graph-1.pdf Graphic file (
 type pdf)
@@ -1539,7 +1499,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 666.
 [16
 
 ]
-<estimation_deck_files/figure-beamer/nhl_residuals_graph-1.pdf, id=199, 867.24p
+<estimation_deck_files/figure-beamer/nhl_residuals_graph-1.pdf, id=193, 867.24p
 t x 505.89pt>
 File: estimation_deck_files/figure-beamer/nhl_residuals_graph-1.pdf Graphic fil
 e (type pdf)
@@ -1604,7 +1564,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 822.
 [22
 
 ]
-<estimation_deck_files/figure-beamer/nhl_residuals_graph_2-1.pdf, id=255, 867.2
+<estimation_deck_files/figure-beamer/nhl_residuals_graph_2-1.pdf, id=249, 867.2
 4pt x 505.89pt>
 File: estimation_deck_files/figure-beamer/nhl_residuals_graph_2-1.pdf Graphic f
 ile (type pdf)
@@ -1643,7 +1603,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 914.
 [25
 
 ]
-<estimation_deck_files/figure-beamer/nhl_residuals_graph_3-1.pdf, id=286, 867.2
+<estimation_deck_files/figure-beamer/nhl_residuals_graph_3-1.pdf, id=280, 867.2
 4pt x 505.89pt>
 File: estimation_deck_files/figure-beamer/nhl_residuals_graph_3-1.pdf Graphic f
 ile (type pdf)
@@ -1735,7 +1695,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1221.
 [34
 
 ]
-<../images/Fig1.pdf, id=365, 867.24pt x 722.7pt>
+<../images/Fig1.pdf, id=359, 867.24pt x 722.7pt>
 File: ../images/Fig1.pdf Graphic file (type pdf)
 <use ../images/Fig1.pdf>
 Package pdftex.def Info: ../images/Fig1.pdf  used on input line 1226.
@@ -1747,7 +1707,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1226.
 [35
 
  <../images/Fig1.pdf>]
-<../images/covid_aeso_fuel.png, id=384, 1156.32pt x 650.43pt>
+<../images/covid_aeso_fuel.png, id=378, 1156.32pt x 650.43pt>
 File: ../images/covid_aeso_fuel.png Graphic file (type png)
 <use ../images/covid_aeso_fuel.png>
 Package pdftex.def Info: ../images/covid_aeso_fuel.png  used on input line 1231
@@ -1760,7 +1720,7 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1231.
 [36
 
  <../images/covid_aeso_fuel.png>]
-<../images/Fig3.pdf, id=394, 722.7pt x 361.35pt>
+<../images/Fig3.pdf, id=388, 722.7pt x 361.35pt>
 File: ../images/Fig3.pdf Graphic file (type pdf)
 <use ../images/Fig3.pdf>
 Package pdftex.def Info: ../images/Fig3.pdf  used on input line 1236.
@@ -1787,20 +1747,26 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 1242.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1242.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1242.
 
-Package rerunfilecheck Info: File `estimation_deck.out' has not changed.
-(rerunfilecheck)             Checksum: D44BA591171B405DEEEF3CD990449C73;94.
+
+Package rerunfilecheck Warning: File `estimation_deck.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `estimation_deck.out':
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  D44BA591171B405DEEEF3CD990449C73;94.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 24708 strings out of 492946
- 480089 string characters out of 3135524
- 578166 words of memory out of 3000000
- 27854 multiletter control sequences out of 15000+200000
+ 24705 strings out of 492946
+ 480063 string characters out of 3135524
+ 576319 words of memory out of 3000000
+ 27851 multiletter control sequences out of 15000+200000
  85541 words of font info for 102 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,17n,59p,804b,963s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1817,6 +1783,14 @@ MiKTeX 2.9/fonts/type1/public/lm/lmsso10.pfb><C:/Program Files/MiKTeX 2.9/fonts
 lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy5.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/lm/lmtt10.pfb>
+Output written on estimation_deck.pdf (37 pages, 689262 bytes).
+PDF statistics:
+ 478 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
+ 14453 words of extra memory for PDF output out of 17280 (max. 10000000)
+
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/lm/lmtt10.pfb>
 Output written on estimation_deck.pdf (37 pages, 689906 bytes).
 PDF statistics:
