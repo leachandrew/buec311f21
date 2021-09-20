@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  18 SEP 2021 15:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  19 SEP 2021 22:41
 entering extended mode
 **./estimation_deck.tex
 (estimation_deck.tex
@@ -1799,7 +1799,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  24708 strings out of 492946
  480089 string characters out of 3135524
- 578194 words of memory out of 3000000
+ 578166 words of memory out of 3000000
  27854 multiletter control sequences out of 15000+200000
  85541 words of font info for 102 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1818,7 +1818,7 @@ lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy5.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/lm/lmtt10.pfb>
-Output written on estimation_deck.pdf (37 pages, 690200 bytes).
+Output written on estimation_deck.pdf (37 pages, 689906 bytes).
 PDF statistics:
  485 PDF objects out of 1000 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)
