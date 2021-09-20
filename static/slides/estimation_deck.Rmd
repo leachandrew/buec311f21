@@ -1,6 +1,6 @@
 ---
 title: Estimating Demand and Supply
-subtitle: Week 5 Slide Pack
+subtitle: Slide Pack
 author: 
   - Andrew Leach 
 institution: 
@@ -124,6 +124,15 @@ star = sub('^.+\\caption.+$','', star)
 
 - Why? Because (in our case), the demand curve is linear while elasticity measures percentage changes
 
+```{=latex}
+\begin{itemize}
+\item Recall that the euqation of the line is gien by $Q=a+bp$;
+\item We can use this in the elasticity formula, since we know that $\frac{\Delta Q}{\Delta p}=b$
+\item We therefore know that $\epsilon=\frac{\Delta Q}{\Delta p}\frac{p}{Q}=b\frac{p}{Q}$
+\end{itemize}
+\vspace{-0.4cm}
+```
+
 - We will, later in the class, look at constant elasticity relationships
 
 - for a given change in price, the change in quantity you observe gives you the arc elasticity, but may not be representative of elasticity at other (price,quantity) pairs
@@ -229,7 +238,7 @@ https://www.nytimes.com/video/movies/100000001341145/clip-moneyball.html
 ## Economic Moneyball
 
 
-Much of the estimation of demand is trying to determine, with statistical tolls, the marginal willingness to pay for just one more:
+Much of the estimation of demand is trying to determine, with statistical tools, the marginal willingness to pay for just one more:
 
 - run
 - year of education
@@ -330,7 +339,7 @@ stargazer(fit,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,
 
 ## A basic, univariate regression
 \vspace{-.5cm}
-```{r nhl_salary_sum_2,title="NHL Salary Regression Models\vspace{-1cm}",results='asis',echo=FALSE,cache=FALSE}
+```{r nhl_salary_sum_2,title="NHL Salary Regression Models\vspace{-1cm}",results='asis',echo=FALSE,cache=FALSE,results='asis'}
 stargazer(fit,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,single.row = TRUE,omit.stat = c("rsq", "f"),title="NHL Salary Regression Models")
 ```
 - The standard errors tell us how precisely the coefficients are estimated. A consistent relationship or a larger sample size will give you smaller standard errors.
@@ -548,7 +557,7 @@ stargazer(fit,fit_toi,fit_toi_pos,align=TRUE,font.size="tiny",header=FALSE,inter
 \vspace{-.5cm}
 
 ```{r nhl_salary_SQ,results='asis',echo=FALSE,cache=FALSE}
-stargazer(fit,fit_toi,fit_toi_2,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,single.row = TRUE,title="NHL Salary Regression Models",omit.stat = c("rsq", "f"),column.sep.width = "-15pt")
+stargazer(fit,fit_toi,fit_toi2,align=TRUE,font.size="tiny",header=FALSE,intercept.bottom = FALSE,single.row = TRUE,title="NHL Salary Regression Models",omit.stat = c("rsq", "f"),column.sep.width = "-15pt")
 ```
 - Note here that, as we add variables to the regression which help explain the salary levels, we're allowing for non-linear effects of points or toi. Why?
 
@@ -602,7 +611,7 @@ stargazer(fit_toi,fit_2m,fit_4m,align=TRUE,font.size="tiny",header=FALSE,interce
 
 Andrew Leach, Nic Rivers, and Blake Shaffer. 2020. Canadian Electricity Markets during the COVID-19 Pandemic: An Initial Assessment. \textit{Canadian Public Policy} 46:S2, S145-S159
 
-- apologies for the self-citation, but it's new work that I can talk about pretty easily
+- apologies for the self-citation, but it's work that I can talk about pretty easily
 
 - we were interested in how the electricity market in 4 provinces had changed after the COVID-19 pandemic started
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  27 SEP 2020 17:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  20 SEP 2021 08:52
 entering extended mode
 **./estimation_deck.tex
 (estimation_deck.tex
@@ -1107,6 +1107,9 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `' multiply defined.
 
+
+LaTeX Warning: Label `' multiply defined.
+
 )
 \openout1 = `estimation_deck.aux'.
 
@@ -1412,104 +1415,104 @@ l.379 \end{frame}
                  ]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 402.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 412.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [4
 
 ]
-<estimation_deck_files/figure-beamer/demand_graph_1-1.pdf, id=74, 867.24pt x 50
+<estimation_deck_files/figure-beamer/demand_graph_1-1.pdf, id=76, 867.24pt x 50
 5.89pt>
 File: estimation_deck_files/figure-beamer/demand_graph_1-1.pdf Graphic file (ty
 pe pdf)
 <use estimation_deck_files/figure-beamer/demand_graph_1-1.pdf>
 Package pdftex.def Info: estimation_deck_files/figure-beamer/demand_graph_1-1.p
-df  used on input line 407.
+df  used on input line 417.
 (pdftex.def)             Requested size: 316.25546pt x 184.48235pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 407.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 417.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [5
 
  <./estimation_deck_files/figure-beamer/demand_graph_1-1.pdf>]
-<estimation_deck_files/figure-beamer/demand_graph_2-1.pdf, id=89, 867.24pt x 50
+<estimation_deck_files/figure-beamer/demand_graph_2-1.pdf, id=91, 867.24pt x 50
 5.89pt>
 File: estimation_deck_files/figure-beamer/demand_graph_2-1.pdf Graphic file (ty
 pe pdf)
 <use estimation_deck_files/figure-beamer/demand_graph_2-1.pdf>
 Package pdftex.def Info: estimation_deck_files/figure-beamer/demand_graph_2-1.p
-df  used on input line 412.
+df  used on input line 422.
 (pdftex.def)             Requested size: 316.25546pt x 184.48235pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 412.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 422.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [6
 
  <./estimation_deck_files/figure-beamer/demand_graph_2-1.pdf>]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 449.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 459.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [7
 
 ]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 469.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 479.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [8
 
 ]
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 474.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 484.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 474.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 484.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [9
 
 ]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 502.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 512.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [10
 
 ]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 530.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 540.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [11
 
 ]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 545.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 555.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [12
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 582.
+Package hyperref Warning: Ignoring empty anchor on input line 592.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 582.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 592.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [13
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 623.
+Package hyperref Warning: Ignoring empty anchor on input line 633.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 623.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 633.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [14
 
@@ -1520,18 +1523,18 @@ File: estimation_deck_files/figure-beamer/nhl_salary_graph-1.pdf Graphic file (
 type pdf)
 <use estimation_deck_files/figure-beamer/nhl_salary_graph-1.pdf>
 Package pdftex.def Info: estimation_deck_files/figure-beamer/nhl_salary_graph-1
-.pdf  used on input line 628.
+.pdf  used on input line 638.
 (pdftex.def)             Requested size: 316.25546pt x 184.48235pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 628.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 638.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [15
 
  <./estimation_deck_files/figure-beamer/nhl_salary_graph-1.pdf>]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 666.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 676.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [16
 
@@ -1542,61 +1545,61 @@ File: estimation_deck_files/figure-beamer/nhl_residuals_graph-1.pdf Graphic fil
 e (type pdf)
 <use estimation_deck_files/figure-beamer/nhl_residuals_graph-1.pdf>
 Package pdftex.def Info: estimation_deck_files/figure-beamer/nhl_residuals_grap
-h-1.pdf  used on input line 671.
+h-1.pdf  used on input line 681.
 (pdftex.def)             Requested size: 316.25546pt x 184.48235pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 671.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 681.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [17
 
  <./estimation_deck_files/figure-beamer/nhl_residuals_graph-1.pdf>]
 
-Package hyperref Warning: Ignoring empty anchor on input line 698.
+Package hyperref Warning: Ignoring empty anchor on input line 708.
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 698.
+(Font)              <10> on input line 708.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 698.
+(Font)              <7> on input line 708.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 698.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 708.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 698.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 708.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [18
 
 ]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 713.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 723.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [19
 
 ]
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 754.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 764.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [20
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 795.
+Package hyperref Warning: Ignoring empty anchor on input line 805.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 795.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 805.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [21
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 822.
+Package hyperref Warning: Ignoring empty anchor on input line 832.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 822.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 832.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [22
 
@@ -1607,35 +1610,35 @@ File: estimation_deck_files/figure-beamer/nhl_residuals_graph_2-1.pdf Graphic f
 ile (type pdf)
 <use estimation_deck_files/figure-beamer/nhl_residuals_graph_2-1.pdf>
 Package pdftex.def Info: estimation_deck_files/figure-beamer/nhl_residuals_grap
-h_2-1.pdf  used on input line 827.
+h_2-1.pdf  used on input line 837.
 (pdftex.def)             Requested size: 316.25546pt x 184.48235pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 827.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 837.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [23
 
  <./estimation_deck_files/figure-beamer/nhl_residuals_graph_2-1.pdf>]
 
-Package hyperref Warning: Ignoring empty anchor on input line 871.
+Package hyperref Warning: Ignoring empty anchor on input line 881.
 
 
-Overfull \vbox (2.56984pt too high) detected at line 871
+Overfull \vbox (2.56984pt too high) detected at line 881
  []
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 871.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 881.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [24
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 914.
+Package hyperref Warning: Ignoring empty anchor on input line 924.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 914.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 924.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [25
 
@@ -1646,117 +1649,127 @@ File: estimation_deck_files/figure-beamer/nhl_residuals_graph_3-1.pdf Graphic f
 ile (type pdf)
 <use estimation_deck_files/figure-beamer/nhl_residuals_graph_3-1.pdf>
 Package pdftex.def Info: estimation_deck_files/figure-beamer/nhl_residuals_grap
-h_3-1.pdf  used on input line 920.
+h_3-1.pdf  used on input line 930.
 (pdftex.def)             Requested size: 316.25546pt x 184.48235pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 920.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 930.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [26
 
  <./estimation_deck_files/figure-beamer/nhl_residuals_graph_3-1.pdf>]
 
-Package hyperref Warning: Ignoring empty anchor on input line 947.
+Package hyperref Warning: Ignoring empty anchor on input line 957.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 947.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 957.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [27
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 992.
+Package hyperref Warning: Ignoring empty anchor on input line 1002.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 992.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1002.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [28
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 1038.
+Package hyperref Warning: Ignoring empty anchor on input line 1042.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1038.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1042.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [29
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 1079.
+Package hyperref Warning: Ignoring empty anchor on input line 1088.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1079.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1088.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [30
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 1116.
+Package hyperref Warning: Ignoring empty anchor on input line 1129.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1116.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1129.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [31
 
 ]
 
-Package hyperref Warning: Ignoring empty anchor on input line 1156.
+Package hyperref Warning: Ignoring empty anchor on input line 1166.
 
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1156.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1166.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [32
 
 ]
+
+Package hyperref Warning: Ignoring empty anchor on input line 1206.
+
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1181.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1206.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [33
 
 ]
-<../images/Fig1.pdf, id=357, 867.24pt x 722.7pt>
-File: ../images/Fig1.pdf Graphic file (type pdf)
-<use ../images/Fig1.pdf>
-Package pdftex.def Info: ../images/Fig1.pdf  used on input line 1186.
-(pdftex.def)             Requested size: 221.37485pt x 184.47903pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1186.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1231.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
 [34
 
+]
+<../images/Fig1.pdf, id=365, 867.24pt x 722.7pt>
+File: ../images/Fig1.pdf Graphic file (type pdf)
+<use ../images/Fig1.pdf>
+Package pdftex.def Info: ../images/Fig1.pdf  used on input line 1236.
+(pdftex.def)             Requested size: 221.37485pt x 184.47903pt.
+File: UA-ASB-COLOUR.png Graphic file (type png)
+<use UA-ASB-COLOUR.png>
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1236.
+(pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
+[35
+
  <../images/Fig1.pdf>]
-<../images/covid_aeso_fuel.png, id=376, 1156.32pt x 650.43pt>
+<../images/covid_aeso_fuel.png, id=384, 1156.32pt x 650.43pt>
 File: ../images/covid_aeso_fuel.png Graphic file (type png)
 <use ../images/covid_aeso_fuel.png>
-Package pdftex.def Info: ../images/covid_aeso_fuel.png  used on input line 1191
+Package pdftex.def Info: ../images/covid_aeso_fuel.png  used on input line 1241
 .
 (pdftex.def)             Requested size: 327.20798pt x 184.05447pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1191.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1241.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
-[35
+[36
 
  <../images/covid_aeso_fuel.png>]
-<../images/Fig3.pdf, id=386, 722.7pt x 361.35pt>
+<../images/Fig3.pdf, id=394, 722.7pt x 361.35pt>
 File: ../images/Fig3.pdf Graphic file (type pdf)
 <use ../images/Fig3.pdf>
-Package pdftex.def Info: ../images/Fig3.pdf  used on input line 1196.
+Package pdftex.def Info: ../images/Fig3.pdf  used on input line 1246.
 (pdftex.def)             Requested size: 327.20796pt x 163.60399pt.
 File: UA-ASB-COLOUR.png Graphic file (type png)
 <use UA-ASB-COLOUR.png>
-Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1196.
+Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1246.
 (pdftex.def)             Requested size: 72.26666pt x 8.68385pt.
-[36
+[37
 
  <../images/Fig3.pdf>]
 \tf@nav=\write6
@@ -1768,11 +1781,11 @@ Package pdftex.def Info: UA-ASB-COLOUR.png  used on input line 1196.
 \tf@snm=\write8
 \openout8 = `estimation_deck.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1202.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1202.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1252.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1252.
 (estimation_deck.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1202.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1202.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1252.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1252.
 
 Package rerunfilecheck Info: File `estimation_deck.out' has not changed.
 (rerunfilecheck)             Checksum: D44BA591171B405DEEEF3CD990449C73;94.
@@ -1784,16 +1797,16 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 24701 strings out of 492946
- 479993 string characters out of 3135524
- 579149 words of memory out of 3000000
- 27850 multiletter control sequences out of 15000+200000
+ 24708 strings out of 492946
+ 480089 string characters out of 3135524
+ 578166 words of memory out of 3000000
+ 27854 multiletter control sequences out of 15000+200000
  85541 words of font info for 102 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,17n,59p,804b,963s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Fil
-es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/e
-nc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec
+es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2.9/fon
+ts/enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm
 .enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi6.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/lm/lmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
@@ -1805,9 +1818,9 @@ lmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy5.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy6.pfb><C:/Program Files/MiKTeX 
 2.9/fonts/type1/public/lm/lmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
 blic/lm/lmtt10.pfb>
-Output written on estimation_deck.pdf (36 pages, 686573 bytes).
+Output written on estimation_deck.pdf (37 pages, 690629 bytes).
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
- 112 named destinations out of 1000 (max. 500000)
+ 485 PDF objects out of 1000 (max. 8388607)
+ 115 named destinations out of 1000 (max. 500000)
  14469 words of extra memory for PDF output out of 17280 (max. 10000000)
 
