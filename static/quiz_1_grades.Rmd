@@ -1,5 +1,5 @@
 ---
-title: First Quiz Data
+title: Quiz Data
 output: html_document
 ---
 
@@ -7,6 +7,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache=TRUE)
 
+library(tidyverse)
 library(lubridate)
 library(viridis)
 library(zoo)
@@ -19,7 +20,6 @@ library(stargazer)
 library(scales)
 library(ggrepel)
 library(readxl)
-library(tidyverse)
 
 
 colors_tableau10<-function()
@@ -71,7 +71,7 @@ The average over all three sections was `r round(mean(test_data$grade,na.rm=T),2
 
 The averages for the individual sections were `r round(mean(test_A1$grade,na.rm=T),2)`/10 for section A1, `r round(mean(test_A2$grade,na.rm=T),2)`/10 for section A2 and `r round(mean(test_A3$grade,na.rm=T),2)`/10 for section A3.
 
-```{r test_graphs,echo=FALSE,warnings=FALSE,include=FALSE,,cache=FALSE}
+```{r test_graphs,echo=FALSE,warnings=FALSE,include=FALSE,cache=FALSE}
 
 all<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade))+
   geom_density(aes(),alpha=0.5,fill="dodgerblue")+
@@ -94,7 +94,7 @@ samples<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=samples))+
   labs(x="Range of Scores",y="Probability Density",
        title="Distribution of quiz scores by number of samples completed",
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
-       fill=guide_legend(title="Number of/nSamples/nCompleted"),color=guide_legend(title="Number of/nSamples/nCompleted"))
+       fill=guide_legend(title="Number of\nSamples\nCompleted"),color=guide_legend(title="Number of\nSamples\nCompleted"))
 
 ```
 
