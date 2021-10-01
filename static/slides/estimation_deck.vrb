@@ -1,0 +1,30 @@
+\frametitle{Elasticity along the demand curve}
+
+\begin{itemize}
+\item
+  Elasticity varies as we move along the demand curve
+\item
+  Why? Because (in our case), the demand curve is linear while
+  elasticity measures percentage changes
+\end{itemize}
+
+\begin{verbatim}
+\begin{itemize}
+\item Recall that the euqation of the line is gien by $Q=a+bp$;
+\item We can use this in the elasticity formula, since we know that $\frac{\Delta Q}{\Delta p}=b$
+\item We therefore know that $\epsilon=\frac{\Delta Q}{\Delta p}\frac{p}{Q}=b\frac{p}{Q}$
+\end{itemize}
+\vspace{-0.4cm}
+\end{verbatim}
+
+\begin{itemize}
+\item
+  We will, later in the class, look at constant elasticity relationships
+\item
+  for a given change in price, the change in quantity you observe gives
+  you the arc elasticity, but may not be representative of elasticity at
+  other (price,quantity) pairs
+\item
+  what does this mean for empirical estimates?
+\end{itemize}
+

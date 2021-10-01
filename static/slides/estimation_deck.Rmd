@@ -320,7 +320,8 @@ fit_4m <- lm(salary ~ points+toi, data =nhl_data%>%filter(salary>=4))
 
 #fit_toi_p60 <- lm(salary ~ points+toi+p60, data =nhl_data)
 
-fit_toi2 <- lm(salary ~ points+points^2+toi+toi^2, data =nhl_data)
+nhl_data<-nhl_data %>% mutate(points2=points^2,toi2=toi^2)
+fit_toi2 <- lm(salary ~ points+points2+toi+toi2, data =nhl_data)
 
 ```
  
