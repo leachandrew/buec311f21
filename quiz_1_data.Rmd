@@ -57,7 +57,10 @@ sections<- bind_rows(section_a1,section_a2,section_a3) %>% select(student_id=ID,
   mutate(student_id=as.numeric(student_id))
 
 
-test_data<-read_csv("private/quiz_grades.csv") %>% clean_names() %>%select(grade=first_quiz,student_id) %>% left_join(sections)
+test_data<-read_excel("private/first_quiz.xlsx") %>% clean_names() %>% mutate(samples=as.factor((quiz_sample_quiz_number_1_real!="-")*1+
+               (quiz_sample_quiz_number_2_real!="-")*1+
+               (quiz_sample_quiz_3_real!="-")*1))%>%
+  select(samples,grade=first_quiz,student_id) %>% left_join(sections)
 
 test_A1<-test_data %>% filter(sec=="A1")
 test_A2<-test_data %>% filter(sec=="A2")
@@ -85,6 +88,14 @@ sec<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=sec))+
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
        fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
 
+
+samples<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=samples))+
+  geom_density(aes(fill=samples,colour=samples),alpha=0.5)+
+  labs(x="Range of Scores",y="Probability Density",
+       title="Distribution of midterm Scores by Section",
+       caption="Kernel-smoothed so you won't necessarily find your actual grade",
+       fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
+
 ```
 
 ## Grade Distribution
@@ -93,17 +104,13 @@ all
 ```
 
 
-
-
-
-
-
-
-
-
-
 ## Grade Distribution By Section
 ```{r dist_graph_sec,fig.width=12,fig.height=7,echo=FALSE}
 sec
+```
+
+## Grade Distribution By Number of Samples Completed
+```{r dist_graph_samp,fig.width=12,fig.height=7,echo=FALSE}
+samples
 ```
 
