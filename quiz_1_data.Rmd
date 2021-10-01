@@ -1,5 +1,5 @@
 ---
-title: Quiz Data
+title: First Quiz Data
 output: html_document
 ---
 
@@ -7,7 +7,6 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache=TRUE)
 
-library(tidyverse)
 library(lubridate)
 library(viridis)
 library(zoo)
@@ -20,6 +19,7 @@ library(stargazer)
 library(scales)
 library(ggrepel)
 library(readxl)
+library(tidyverse)
 
 
 colors_tableau10<-function()
@@ -48,47 +48,53 @@ class_clean<-function(){
 
 ```
 
-```{r quiz_data,echo=FALSE,warnings=FALSE,include=FALSE,,cache=FALSE}
-sections<- read_csv("../private/eclass_import.csv") %>% select(student_id,sec)
+```{r test_data,echo=FALSE,warnings=FALSE,include=FALSE,,cache=FALSE}
+#load by sections
+section_a3<-read_excel("private/1770_48844.xls",skip = 1) %>% mutate(sec="A3")
+section_a2<-read_excel("private/1770_40844.xls",skip = 1) %>% mutate(sec="A2")
+section_a1<-read_excel("private/1770_40782.xls",skip = 1) %>% mutate(sec="A1")
+sections<- bind_rows(section_a1,section_a2,section_a3) %>% select(student_id=ID,sec)%>%
+  mutate(student_id=as.numeric(student_id))
 
 
-quiz_data<-read_excel("../private/quizzes.xlsx") %>% clean_names()%>%select(quiz_grade,samples_completed,student_id) %>% left_join(sections)
+test_data<-read_excel("private/first_quiz.xlsx") %>% clean_names() %>% mutate(samples=as.factor((quiz_sample_quiz_number_1_real!="-")*1+
+               (quiz_sample_quiz_number_2_real!="-")*1+
+               (quiz_sample_quiz_3_real!="-")*1))%>%
+  select(samples,grade=first_quiz,student_id) %>% left_join(sections)
 
-quiz_A1<-quiz_data %>% filter(sec=="A1")
-quiz_A2<-quiz_data %>% filter(sec=="A2")
-quiz_A3<-quiz_data %>% filter(sec=="A3")
+test_A1<-test_data %>% filter(sec=="A1")
+test_A2<-test_data %>% filter(sec=="A2")
+test_A3<-test_data %>% filter(sec=="A3")
 
 ```
-The quiz average over all three sections was `r round(mean(quiz_data$quiz_grade/10*100,na.rm=T),2)`%.
+The average over all three sections was `r round(mean(test_data$grade,na.rm=T),2)`%.
 
-The quiz averages for the individual sections were `r round(mean(quiz_A1$quiz_grade/10*100,na.rm=T),2)`% for section A1, `r round(mean(quiz_A2$quiz_grade/10*100,na.rm=T),2)`% for section A2 and `r round(mean(quiz_A3$quiz_grade/10*100,na.rm=T),2)`% for section A3.
+The averages for the individual sections were `r round(mean(test_A1$grade,na.rm=T),2)`% for section A1, `r round(mean(test_A2$grade,na.rm=T),2)`% for section A2 and `r round(mean(test_A3$grade,na.rm=T),2)`% for section A3.
 
-```{r quiz_graphs,echo=FALSE,warnings=FALSE,include=FALSE,,cache=FALSE}
+```{r test_graphs,echo=FALSE,warnings=FALSE,include=FALSE,,cache=FALSE}
 
-all<-ggplot(quiz_data%>%filter(!is.na(quiz_grade)),aes(quiz_grade))+
+all<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade))+
   geom_density(aes(),alpha=0.5,fill="dodgerblue")+
   labs(x="Range of Scores",y="Probability Density",
-       title="Distribution of Quiz Scores",
+       title="Distribution of midterm Scores",
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
        fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
 
 
-sec<-ggplot(quiz_data%>%filter(!is.na(quiz_grade)),aes(quiz_grade,group=sec))+
+sec<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=sec))+
   geom_density(aes(fill=sec,colour=sec),alpha=0.5)+
   labs(x="Range of Scores",y="Probability Density",
-       title="Distribution of Quiz Scores by Section",
+       title="Distribution of midterm Scores by Section",
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
        fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
 
-samples<-ggplot(quiz_data%>%filter(!is.na(quiz_grade)),aes(quiz_grade,group=factor(samples_completed)))+
-  geom_density(aes(fill=factor(samples_completed),colour=factor(samples_completed)),alpha=0.5)+
+
+samples<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=samples))+
+  geom_density(aes(fill=samples,colour=samples),alpha=0.5)+
   labs(x="Range of Scores",y="Probability Density",
-       title="Distribution of Quiz Scores by Number of Sample Quizes Completed",
+       title="Distribution of midterm Scores by Section",
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
-       fill=guide_legend(title="Sample\nQuizzes\nCompleted"),color=guide_legend(title="Sample\nQuizzes\nCompleted"))
-
-
-
+       fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
 
 ```
 
@@ -98,18 +104,13 @@ all
 ```
 
 
-
 ## Grade Distribution By Section
 ```{r dist_graph_sec,fig.width=12,fig.height=7,echo=FALSE}
 sec
 ```
 
-
-
-## Grade Distribution By Preparation
-```{r dist_graph_prep,fig.width=12,fig.height=7,echo=FALSE}
+## Grade Distribution By Number of Samples Completed
+```{r dist_graph_samp,fig.width=12,fig.height=7,echo=FALSE}
 samples
 ```
-
-
 
