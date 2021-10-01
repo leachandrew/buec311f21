@@ -67,16 +67,16 @@ test_A2<-test_data %>% filter(sec=="A2")
 test_A3<-test_data %>% filter(sec=="A3")
 
 ```
-The average over all three sections was `r round(mean(test_data$grade,na.rm=T),2)`%.
+The average over all three sections was `r round(mean(test_data$grade,na.rm=T),2)`/10.
 
-The averages for the individual sections were `r round(mean(test_A1$grade,na.rm=T),2)`% for section A1, `r round(mean(test_A2$grade,na.rm=T),2)`% for section A2 and `r round(mean(test_A3$grade,na.rm=T),2)`% for section A3.
+The averages for the individual sections were `r round(mean(test_A1$grade,na.rm=T),2)`/10 for section A1, `r round(mean(test_A2$grade,na.rm=T),2)`/10 for section A2 and `r round(mean(test_A3$grade,na.rm=T),2)`/10 for section A3.
 
 ```{r test_graphs,echo=FALSE,warnings=FALSE,include=FALSE,,cache=FALSE}
 
 all<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade))+
   geom_density(aes(),alpha=0.5,fill="dodgerblue")+
   labs(x="Range of Scores",y="Probability Density",
-       title="Distribution of midterm Scores",
+       title="Distribution of quiz scores",
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
        fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
 
@@ -84,7 +84,7 @@ all<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade))+
 sec<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=sec))+
   geom_density(aes(fill=sec,colour=sec),alpha=0.5)+
   labs(x="Range of Scores",y="Probability Density",
-       title="Distribution of midterm Scores by Section",
+       title="Distribution of quiz scores by section",
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
        fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
 
@@ -92,9 +92,9 @@ sec<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=sec))+
 samples<-ggplot(test_data%>%filter(!is.na(grade)),aes(grade,group=samples))+
   geom_density(aes(fill=samples,colour=samples),alpha=0.5)+
   labs(x="Range of Scores",y="Probability Density",
-       title="Distribution of midterm Scores by Section",
+       title="Distribution of quiz scores by number of samples completed",
        caption="Kernel-smoothed so you won't necessarily find your actual grade",
-       fill=guide_legend(title="Section"),color=guide_legend(title="Section"))
+       fill=guide_legend(title="Number of/nSamples/nCompleted"),color=guide_legend(title="Number of/nSamples/nCompleted"))
 
 ```
 
