@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.31)  29 SEP 2021 12:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.31)  18 OCT 2021 09:43
 entering extended mode
 **./firm_theory_2.tex
 (firm_theory_2.tex
@@ -1805,7 +1805,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  33388 strings out of 492970
  689629 string characters out of 3135851
- 715349 words of memory out of 3000000
+ 715375 words of memory out of 3000000
  36607 multiletter control sequences out of 15000+200000
  548274 words of font info for 83 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1820,7 +1820,7 @@ e1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 nts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmssi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi8.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on firm_theory_2.pdf (54 pages, 890087 bytes).
+Output written on firm_theory_2.pdf (54 pages, 890096 bytes).
 PDF statistics:
  1835 PDF objects out of 2073 (max. 8388607)
  115 named destinations out of 1000 (max. 500000)
