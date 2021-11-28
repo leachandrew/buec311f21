@@ -1,3 +1,5 @@
 \beamer@sectionintoc {1}{Overview}{1}{0}{1}
-\beamer@sectionintoc {2}{Oligopoly Games}{5}{0}{2}
-\beamer@sectionintoc {3}{Auctions}{18}{0}{3}
+\beamer@sectionintoc {2}{Static Oligopoly Games}{5}{0}{2}
+\beamer@sectionintoc {3}{Repeated Oligopoly Games}{18}{0}{3}
+\beamer@sectionintoc {4}{Sequential Oligopoly Games}{32}{0}{4}
+\beamer@sectionintoc {5}{Auctions}{43}{0}{5}
