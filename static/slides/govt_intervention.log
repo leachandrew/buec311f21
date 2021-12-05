@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  15 NOV 2020 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  5 DEC 2021 13:00
 entering extended mode
 **./govt_intervention.tex
 (govt_intervention.tex
@@ -1362,7 +1362,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/sc' in size <17.28> not available
 LaTeX Font Warning: Font shape `OT1/cmss/bx/sc' undefined
 (Font)              using `OT1/cmss/bx/n' instead on input line 185.
 
-<../images/UA-ASB-COLOUR.png, id=48, 410.9754pt x 49.3845pt>
+<../images/UA-ASB-COLOUR.png, id=43, 410.9754pt x 49.3845pt>
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
 Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 185.
@@ -1372,303 +1372,247 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 185.
  <../images/UA-ASB-COLOUR.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 203.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 201.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [2
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 224.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 222.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [3
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 243.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 239.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [4
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 262.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 258.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [5
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 285.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 281.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [6
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 305.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 299.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [7
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 322.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 316.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [8
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 334.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 328.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [9
 
 ]
-<../images/intervention/price_cap.png, id=348, 923.45pt x 835.12pt>
+<../images/intervention/price_cap.png, id=333, 923.45pt x 835.12pt>
 File: ../images/intervention/price_cap.png Graphic file (type png)
 <use ../images/intervention/price_cap.png>
 Package pdftex.def Info: ../images/intervention/price_cap.png  used on input li
-ne 341.
+ne 335.
 (pdftex.def)             Requested size: 230.86192pt x 208.77948pt.
 
-Overfull \vbox (0.61272pt too high) detected at line 341
+Overfull \vbox (0.61272pt too high) detected at line 335
  []
 
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 341.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 335.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
 [10
 
  <../images/intervention/price_cap.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 348.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 342.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [11
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 372.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 366.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [12
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 387.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 381.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [13
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 408.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 398.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [14
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 434.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 419.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [15
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 453.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 433.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [16
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 477.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 447.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
 
 [17
 
 ]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 496.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [18
-
-]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 517.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [19
-
-]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 531.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [20
-
-]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 545.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [21
-
-]
-<../images/intervention/social_cost.png, id=726, 963.6pt x 768.8725pt>
+<../images/intervention/social_cost.png, id=578, 963.6pt x 768.8725pt>
 File: ../images/intervention/social_cost.png Graphic file (type png)
 <use ../images/intervention/social_cost.png>
 Package pdftex.def Info: ../images/intervention/social_cost.png  used on input 
-line 552.
+line 454.
 (pdftex.def)             Requested size: 240.89941pt x 192.21765pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 552.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 454.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [22
+ [18
 
  <../images/intervention/social_cost.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 564.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 467.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [23
+ [19
 
 ]
-<../images/intervention/tax.png, id=790, 830.10126pt x 429.605pt>
+<../images/intervention/tax.png, id=641, 830.10126pt x 429.605pt>
 File: ../images/intervention/tax.png Graphic file (type png)
 <use ../images/intervention/tax.png>
-Package pdftex.def Info: ../images/intervention/tax.png  used on input line 571
+Package pdftex.def Info: ../images/intervention/tax.png  used on input line 474
 .
 (pdftex.def)             Requested size: 373.54211pt x 193.32045pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 571.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 474.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
-
-[24
+ [20
 
  <../images/intervention/tax.png>]
+<../images/notley.jpg, id=673, 1969.3575pt x 1309.0725pt>
+File: ../images/notley.jpg Graphic file (type jpg)
+<use ../images/notley.jpg>
+Package pdftex.def Info: ../images/notley.jpg  used on input line 481.
+(pdftex.def)             Requested size: 295.39088pt x 196.3524pt.
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 590.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 481.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [25
+ [21
+
+ <../images/notley.jpg>]
+File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
+<use ../images/UA-ASB-COLOUR.png>
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 499.
+(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
+ [22
 
 ]
-<../images/intervention/coase.png, id=855, 817.0525pt x 183.68625pt>
-File: ../images/intervention/coase.png Graphic file (type png)
-<use ../images/intervention/coase.png>
-Package pdftex.def Info: ../images/intervention/coase.png  used on input line 5
-98.
-(pdftex.def)             Requested size: 408.52525pt x 91.84288pt.
+File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
+<use ../images/UA-ASB-COLOUR.png>
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 520.
+(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
+ [23
 
-Overfull \hbox (10.18666pt too wide) in paragraph at lines 598--598
+]
+<../images/intervention/goods.png, id=764, 817.0525pt x 165.61874pt>
+File: ../images/intervention/goods.png Graphic file (type png)
+<use ../images/intervention/goods.png>
+Package pdftex.def Info: ../images/intervention/goods.png  used on input line 5
+28.
+(pdftex.def)             Requested size: 408.52525pt x 82.80916pt.
+
+Overfull \hbox (10.18666pt too wide) in paragraph at lines 528--528
  [] 
  []
 
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 598.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 528.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
-[26
+[24
 
- <../images/intervention/coase.png>]
+ <../images/intervention/goods.png>]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 619.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 553.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [27
+ [25
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 637.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 577.
+(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
+ [26
+
+]
+Overfull \vbox (4.40135pt too high) detected at line 604
+ []
+
+File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
+<use ../images/UA-ASB-COLOUR.png>
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 604.
+(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
+[27
+
+]
+File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
+<use ../images/UA-ASB-COLOUR.png>
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 624.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [28
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 654.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 646.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [29
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 675.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 660.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [30
-
-]
-<../images/intervention/goods.png, id=1012, 817.0525pt x 165.61874pt>
-File: ../images/intervention/goods.png Graphic file (type png)
-<use ../images/intervention/goods.png>
-Package pdftex.def Info: ../images/intervention/goods.png  used on input line 6
-83.
-(pdftex.def)             Requested size: 408.52525pt x 82.80916pt.
-
-Overfull \hbox (10.18666pt too wide) in paragraph at lines 683--683
- [] 
- []
-
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 683.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
-[31
-
- <../images/intervention/goods.png>]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 708.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [32
-
-]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 732.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [33
-
-]
-Overfull \vbox (4.40135pt too high) detected at line 759
- []
-
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 759.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
-[34
-
-]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 779.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [35
-
-]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 801.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [36
-
-]
-File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
-<use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 815.
-(pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
- [37
 
 ]
 \tf@nav=\write6
@@ -1680,23 +1624,23 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 815.
 \tf@snm=\write8
 \openout8 = `govt_intervention.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 817.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 817.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 662.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 662.
  (govt_intervention.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 817.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 817.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 662.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 662.
 Package rerunfilecheck Info: File `govt_intervention.out' has not changed.
-(rerunfilecheck)             Checksum: D183618308738154F49BAC5115F0E28E;297.
+(rerunfilecheck)             Checksum: B6B8EC8B6548FB33CB7FAE0BAEC6485E;247.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33000 strings out of 492946
- 681561 string characters out of 3135524
- 699424 words of memory out of 3000000
- 36275 multiletter control sequences out of 15000+200000
+ 32954 strings out of 492946
+ 680912 string characters out of 3135524
+ 699109 words of memory out of 3000000
+ 36243 multiletter control sequences out of 15000+200000
  547980 words of font info for 82 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,17n,70p,806b,973s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1708,9 +1652,9 @@ onts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmssi12.pfb>
-Output written on govt_intervention.pdf (37 pages, 765540 bytes).
+Output written on govt_intervention.pdf (30 pages, 1092548 bytes).
 PDF statistics:
- 1279 PDF objects out of 1440 (max. 8388607)
- 81 named destinations out of 1000 (max. 500000)
- 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1016 PDF objects out of 1200 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 143 words of extra memory for PDF output out of 10000 (max. 10000000)
 
