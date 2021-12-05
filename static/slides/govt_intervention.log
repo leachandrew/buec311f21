@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  5 DEC 2021 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.16)  5 DEC 2021 13:06
 entering extended mode
 **./govt_intervention.tex
 (govt_intervention.tex
@@ -1596,21 +1596,21 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 604.
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 624.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 622.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [28
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 646.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 644.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [29
 
 ]
 File: ../images/UA-ASB-COLOUR.png Graphic file (type png)
 <use ../images/UA-ASB-COLOUR.png>
-Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 660.
+Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 658.
 (pdftex.def)             Requested size: 72.26999pt x 8.68385pt.
  [30
 
@@ -1624,11 +1624,11 @@ Package pdftex.def Info: ../images/UA-ASB-COLOUR.png  used on input line 660.
 \tf@snm=\write8
 \openout8 = `govt_intervention.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 662.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 662.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 660.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 660.
  (govt_intervention.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 662.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 662.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 660.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 660.
 Package rerunfilecheck Info: File `govt_intervention.out' has not changed.
 (rerunfilecheck)             Checksum: B6B8EC8B6548FB33CB7FAE0BAEC6485E;247.
 
@@ -1652,7 +1652,7 @@ onts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmssi12.pfb>
-Output written on govt_intervention.pdf (30 pages, 1093888 bytes).
+Output written on govt_intervention.pdf (30 pages, 1093819 bytes).
 PDF statistics:
  1016 PDF objects out of 1200 (max. 8388607)
  66 named destinations out of 1000 (max. 500000)
